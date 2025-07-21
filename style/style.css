@@ -1,0 +1,32 @@
+@font-face {
+    font-family: Sixtyfour;
+    src: url("SixtyfourConvergenc/SixtyfourConvergence-Regular-VariableFont_BLED\,SCAN\,XELA\,YELA.ttf");
+}
+
+
+body {
+    background-color: #a88fac;
+}
+
+.bar {
+    width: 600px;
+    border-radius: 16px;
+    background-color: #5d4360;
+    /* margin-top: 15px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+
+.button {
+    height: 20px;
+    background-color: #27001a;
+    border-radius: 15px;
+    font-family: "Sixtyfour";
+}
+
+.button:hover {
+    height: 30px;
+    background-color: #0f0046;
+    border-radius: 23px;  
+}
