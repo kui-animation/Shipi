@@ -1,20 +1,21 @@
-Sixtyfour Convergence Variable Font
-===================================
+Pixelify Sans Variable Font
+===========================
 
-This download contains Sixtyfour Convergence as both a variable font and static fonts.
+This download contains Pixelify Sans as both a variable font and static fonts.
 
-Sixtyfour Convergence is a variable font with these axes:
-  BLED
-  SCAN
-  XELA
-  YELA
+Pixelify Sans is a variable font with this axis:
+  wght
 
 This means all the styles are contained in a single file:
-  SixtyfourConvergence-Regular-VariableFont_BLED,SCAN,XELA,YELA.ttf
+  PixelifySans-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Sixtyfour Convergence:
+in those cases you can use the static font files for Pixelify Sans:
+  static/PixelifySans-Regular.ttf
+  static/PixelifySans-Medium.ttf
+  static/PixelifySans-SemiBold.ttf
+  static/PixelifySans-Bold.ttf
 
 Get started
 -----------

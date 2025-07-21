@@ -1,6 +1,6 @@
 @font-face {
-    font-family: Sixtyfour;
-    src: url("SixtyfourConvergenc/SixtyfourConvergence-Regular-VariableFont_BLED\,SCAN\,XELA\,YELA.ttf");
+    font-family: Pixelify_Sans;
+    src: url("Fonts/Pixelify_Sans/static/PixelifySans-Bold.ttf");
 }
 
 
@@ -8,11 +8,17 @@ body {
     background-color: #a88fac;
 }
 
+.Shipi {
+    position: fixed;
+    bottom: -160px;
+    left: -120px;
+    
+}
+
 .bar {
     width: 600px;
     border-radius: 16px;
     background-color: #5d4360;
-    /* margin-top: 15px; */
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 5px;
@@ -20,13 +26,27 @@ body {
 
 .button {
     height: 20px;
-    background-color: #27001a;
+    background-color: #77004f;
     border-radius: 15px;
-    font-family: "Sixtyfour";
+    font-family: "Pixelify_Sans";
 }
 
 .button:hover {
     height: 30px;
-    background-color: #0f0046;
+    background-color: #20018f;
     border-radius: 23px;  
+}
+
+.disply-area {
+    padding: 5px;
+    padding-left: 0px;
+    border-radius: 16px;
+    background-color: bisque;
+    width: 1500px;
+}
+
+.disply {
+    margin-left: 5px;
+    background-color: burlywood;
+    border-radius: 16px;
 }
